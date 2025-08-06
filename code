@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="pt-br">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Nova+Square&display=swap" rel="stylesheet">
+
+    <title>Kenzo Portfólio</title>
+</head>
+
+<body>
+    <section class="intro">
+        <header>
+        <div class="logo">
+            Yamamoto.Dev
+        </div>
+
+        <nav>
+            <ul>
+                <li>
+                    Contatos
+                </li>
+                <li>
+                    Clique aqui
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="apresentacao">
+        <h1>
+            apresentações:
+        </h1>
+        <p>
+         Me chamo Kenzo Lima Yamamoto, tenho 20 anos, sou estudante de Ciência da Computação no Centro Universitário Filadélfia (UNIFIL), atualmente no segundo período e sou apaixonado por programação, tecnologia e jogos. Estou sempre em busca de aprender mais e aprimorar minhas habilidades. Ingressei na área após um curso que fiz após a pandemia e a identificação com foi imediata, e desde então tenho me dedicado a projetos de programação em geral. Quero muito compartilhar meu portfólio e as atividades que tenho realizado.
+        </p>
+    </div>
+    </section>
+
+    <section class="atividades">
+        <h2>
+            Principais Atividades
+        </h2>
+
+        <div class="pensamento">
+            <h3>
+                Monitoria de Programação
+            </h3>
+            <img src="" alt="">
+            <p>
+                Atuo como monitor de programação na UNIFIL, auxiliando alunos de ensino fundamental a aprenderem lógica de programação básica e os ajudo em suas dúvidas e dificuldades. Essa experiência tem sido enriquecedora, pois me permite reforçar meus conhecimentos enquanto ajudo outros a aprenderem.
+            </p>
+        </div>
+       
+    </section>
+
+</body>
+</html>
