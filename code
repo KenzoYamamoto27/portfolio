@@ -34,7 +34,12 @@
         <h1>
             apresentações:
         </h1>
+
+        <div class="fotoPerfil">
+            <img src="perfil.png" alt="">
+        </div>
         <p>
+
          Me chamo Kenzo Lima Yamamoto, tenho 20 anos, sou estudante de Ciência da Computação no Centro Universitário Filadélfia (UNIFIL), atualmente no segundo período e sou apaixonado por programação, tecnologia e jogos. Estou sempre em busca de aprender mais e aprimorar minhas habilidades. Ingressei na área após um curso que fiz após a pandemia e a identificação com foi imediata, e desde então tenho me dedicado a projetos de programação em geral. Quero muito compartilhar meu portfólio e as atividades que tenho realizado.
         </p>
     </div>
