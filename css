@@ -13,7 +13,6 @@
 --citron: hsla(59, 48%, 61%, 1);
 --feldgrau: hsla(150, 8%, 29%, 1);*/
 
-
 body{
     background-color: hsla(78, 29%, 36%, 1);
     color: antiquewhite;
@@ -81,6 +80,12 @@ header nav ul li{
     line-height: 1.6rem;
 }
 
+.fotoPerfil{
+    position: relative;
+    height: 100%;
+    width: auto;
+    left: 60%;
+}
 
 .apresentacao h1{
     font-size: 2.5rem;
@@ -88,10 +93,16 @@ header nav ul li{
 color: hsla(59, 48%, 61%, 1);
 }
 
-
 .apresentacao p{
-    font-family: "Nova Square", sans-serif;
-    font-size: 1.2rem;
+    background-color: #cbca6c;
+    color: #062d32;
+    padding: 2rem;
+    margin: 3rem 10%;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin: 3rem 10%;
+    border-radius: 1rem;
+    text-align: center;
 }
 .atividades{
     background-color: hsla(59, 48%, 61%, 1);
@@ -119,6 +130,8 @@ color: hsla(59, 48%, 61%, 1);
 
 .atividades p{
     color: hsla(78, 29%, 36%, 1);
+    font-family: "Nova Square", sans-serif;
     font-size: 1.2rem;
     line-height: 1.5rem;
+    font-size: 1.2rem;
 }
